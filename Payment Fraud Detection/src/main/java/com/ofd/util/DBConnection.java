@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class DBConnection {
-    private static final String URL = "jdbc:mysql://localhost:33601/yt_demo"; // ✅ fixed port
+    private static final String URL = "jdbc:mysql://localhost:33601/yt_demo";
     private static final String USER = "root";
     private static final String PASS = "root";
 

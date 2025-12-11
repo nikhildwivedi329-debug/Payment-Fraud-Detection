@@ -114,7 +114,7 @@
   <div class="overlay"></div>
   <div class="hero-container">
     <header>
-      <h1 class="logo">Online Payment Fraud Detection</h1>
+      <h1 class="logo">Online Payment Fraud Detection</h1> </br>
       <nav>
         <a href="transaction.jsp" class="btn">Make Transaction</a>
         <a href="admin/login.jsp" class="btn secondary">User Login</a>

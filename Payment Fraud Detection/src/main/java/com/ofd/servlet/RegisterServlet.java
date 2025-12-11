@@ -9,6 +9,7 @@ import com.ofd.util.DBConnection;
 
 @WebServlet("/admin/RegisterServlet")
 public class RegisterServlet extends HttpServlet {
+	
     protected void doPost(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
 

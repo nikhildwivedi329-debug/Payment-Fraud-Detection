@@ -6,7 +6,7 @@
       <link rel="stylesheet" href="style.css"> 
     <style>
         body {
-            background: url("assets/images/bg-payment.jpg") no-repeat center center/cover;
+            background: url("https://img.pikbest.com/wp/202346/credit-card-icon-blue-background-in-3d-render_9747731.jpg!bw700") no-repeat center center/cover;
             font-family: 'Poppins', sans-serif;
             color: #fff;
         }
