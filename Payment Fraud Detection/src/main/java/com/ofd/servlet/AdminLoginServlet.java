@@ -20,9 +20,10 @@ public class AdminLoginServlet extends HttpServlet {
         if (username.equals("admin") && password.equals("admin123")) {
             HttpSession session = req.getSession();
             session.setAttribute("admin", username);
-            resp.sendRedirect("dashboard.jsp");   // ✅ FIXED
+            resp.sendRedirect("dashboard.jsp");
         } else {
-            resp.sendRedirect("login.jsp?error=invalid");  // ✅ FIXED
+            resp.sendRedirect("login.jsp?error=invalid");
         }
     }
 }
+
